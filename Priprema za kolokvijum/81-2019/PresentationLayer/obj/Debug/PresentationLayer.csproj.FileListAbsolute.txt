@@ -1,0 +1,15 @@
+C:\Users\Djole\Desktop\81-2019\81-2019\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\Djole\Desktop\81-2019\81-2019\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Djole\Desktop\81-2019\81-2019\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Djole\Desktop\81-2019\81-2019\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Djole\Desktop\81-2019\81-2019\PresentationLayer\obj\Debug\PresentationLayer.Form1.resources
+C:\Users\Djole\Desktop\81-2019\81-2019\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Djole\Desktop\81-2019\81-2019\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Djole\Desktop\81-2019\81-2019\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Djole\Desktop\81-2019\81-2019\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\Djole\Desktop\81-2019\81-2019\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Djole\Desktop\81-2019\81-2019\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Djole\Desktop\81-2019\81-2019\PresentationLayer\bin\Debug\DataLayer.dll
+C:\Users\Djole\Desktop\81-2019\81-2019\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Djole\Desktop\81-2019\81-2019\PresentationLayer\bin\Debug\DataLayer.pdb
+C:\Users\Djole\Desktop\81-2019\81-2019\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete

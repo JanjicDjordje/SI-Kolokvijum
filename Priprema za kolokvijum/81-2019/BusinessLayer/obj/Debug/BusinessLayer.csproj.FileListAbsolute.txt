@@ -1,0 +1,9 @@
+C:\Users\Djole\Desktop\81-2019\81-2019\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Djole\Desktop\81-2019\81-2019\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Djole\Desktop\81-2019\81-2019\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Djole\Desktop\81-2019\81-2019\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Djole\Desktop\81-2019\81-2019\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Djole\Desktop\81-2019\81-2019\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Djole\Desktop\81-2019\81-2019\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Djole\Desktop\81-2019\81-2019\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Djole\Desktop\81-2019\81-2019\BusinessLayer\obj\Debug\BusinessLayer.pdb
